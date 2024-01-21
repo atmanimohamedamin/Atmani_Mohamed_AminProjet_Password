@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(29, 29, 173, 0.854);
+}
+
+.divParent{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divMiddle{
+    height: 300px;
+    width: 270px;
+    background-color: rgba(13, 33, 71, 0.733);
+    border: 1px solid black;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.title{
+    color: white;
+    text-align: center;
+}
+
+.paragraphe1{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.paragraphe2{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.paragraphe3{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.paragraphe4{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.paragraphe5{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input{
+    background-color: rgb(11, 11, 81);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 80%;
+}
+
+.number{
+    width: 30px;
+    height: 10px;
+}
+
